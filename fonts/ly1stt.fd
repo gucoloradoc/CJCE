@@ -1,0 +1,35 @@
+%Filename: ly1stt.fd
+%Created by: SPi Global 
+%Created Using: OTF to TFM Font Setup Wizard
+%Date: 8/22/2013
+
+%THIS FILE SHOULD BE PUT IN A TEX INPUTS DIRECTORY
+
+\ProvidesFile{ly1stt.fd}
+   [1998/07/06 Fontinst v1.800 font definitions for LY1/stt.]
+
+\DeclareFontFamily{LY1}{stt}{}
+\DeclareFontShape{LY1}{stt}{m}{n}{<-> STIXTReg}{}
+\DeclareFontShape{LY1}{stt}{m}{sc}{<-> STIXTSCr}{}%
+\DeclareFontShape{LY1}{stt}{m}{sl}{<-> STIXTIt}{}
+\DeclareFontShape{LY1}{stt}{m}{it}{<-> STIXTIt}{}
+\DeclareFontShape{LY1}{stt}{b}{n}{<-> STIXTBd}{}
+\DeclareFontShape{LY1}{stt}{b}{tr}{<-> StBdTone}{}
+\DeclareFontShape{LY1}{stt}{bl}{n}{<-> STIXTBd}{}
+\DeclareFontShape{LY1}{stt}{bl}{tr}{<-> StBdTtwo}{}
+\DeclareFontShape{LY1}{stt}{b}{sc}{<-> STIXTSCb}{}%
+\DeclareFontShape{LY1}{stt}{b}{sl}{<-> STIXTBIt}{}
+\DeclareFontShape{LY1}{stt}{b}{it}{<-> STIXTBIt}{}
+
+\DeclareFontShape{LY1}{stt}{bx}{n}{<->ssub * stt/b/n}{}
+\DeclareFontShape{LY1}{stt}{bx}{sc}{<->ssub * stt/b/sc}{}
+\DeclareFontShape{LY1}{stt}{bx}{sl}{<->ssub * stt/b/sl}{}
+\DeclareFontShape{LY1}{stt}{bx}{it}{<->ssub * stt/b/it}{}
+
+\DeclareFontShape{LY1}{stt}{m}{ui}{<->ssub * stt/m/it}{}
+\DeclareFontShape{LY1}{stt}{b}{ui}{<->ssub * stt/b/it}{}
+\DeclareFontShape{LY1}{stt}{l}{sc}{<->ssub * stt/m/sc}{}
+
+\endinput
+
+

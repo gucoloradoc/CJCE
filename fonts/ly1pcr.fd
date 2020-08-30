@@ -1,0 +1,40 @@
+%Filename: ly1pcr.fd
+%Created by: SPi Global 
+%Created Using: OTF to TFM Font Setup Wizard
+%Date: 8/27/2013
+
+%THIS FILE SHOULD BE PUT IN A TEX INPUTS DIRECTORY
+
+\ProvidesFile{ly1pcr.fd}
+   [1998/07/06 Fontinst v1.800 font definitions for LY1/pcr.]
+
+\DeclareFontFamily{LY1}{pcr}{}
+
+\DeclareFontShape{LY1}{pcr}{m}{n}{<-> Cou}{}
+
+\DeclareFontShape{LY1}{pcr}{m}{sc}{<-> undefined}{}
+
+\DeclareFontShape{LY1}{pcr}{m}{sl}{<-> CouObl}{}
+
+\DeclareFontShape{LY1}{pcr}{m}{it}{<-> CouObl}{}
+
+\DeclareFontShape{LY1}{pcr}{b}{n}{<-> CouBd}{}
+
+\DeclareFontShape{LY1}{pcr}{b}{sc}{<-> undefined}{}
+
+\DeclareFontShape{LY1}{pcr}{b}{sl}{<-> CouBdObl}{}
+
+\DeclareFontShape{LY1}{pcr}{b}{it}{<-> CouBdObl}{}
+
+
+\DeclareFontShape{LY1}{pcr}{bx}{n}{<->ssub * pcr/b/n}{}
+\DeclareFontShape{LY1}{pcr}{bx}{sc}{<->ssub * pcr/b/sc}{}
+\DeclareFontShape{LY1}{pcr}{bx}{sl}{<->ssub * pcr/b/sl}{}
+\DeclareFontShape{LY1}{pcr}{bx}{it}{<->ssub * pcr/b/it}{}
+
+\DeclareFontShape{LY1}{pcr}{m}{ui}{<->ssub * pcr/m/it}{}
+\DeclareFontShape{LY1}{pcr}{b}{ui}{<->ssub * pcr/b/it}{}
+\DeclareFontShape{LY1}{pcr}{l}{sc}{<->ssub * pcr/m/sc}{}
+\endinput
+
+

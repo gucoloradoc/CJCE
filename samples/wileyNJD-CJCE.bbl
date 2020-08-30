@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{ennis1994}
+B.~J. Ennis, J.~Green, R.~Davies, N.~Schmacke, \emph{Powder Technol.}
+  \textbf{1994}, \emph{90}, 32.
+
+\bibitem{Vidal2009}
+D.~Vidal, C.~Ridgway, G.~Pianet, J.~Schoelkopf, R.~Roy, F.~Bertrand,
+  \emph{Comput. Chem. Eng.} \textbf{2009}, \emph{33}, 256.
+
+\bibitem{Allen2011}
+T.~T. Allen, \emph{Introduction to {D}iscrete {E}vent {S}imulation and
+  {A}gent-based {M}odeling: {V}oting {S}ystems{,} {H}ealth {C}are{,}
+  {M}ilitary{,} and {M}anufacturing}, Springer \textbf{2011}.
+
+\bibitem{Ballen2011}
+T.~T. Ballen, \emph{Introduction to {D}iscrete {E}vent {S}imulation and
+  {A}gent-based {M}odeling: {V}oting {S}ystems{,} {H}ealth {C}are{,}
+  {M}ilitary{,} and {M}anufacturing}, 2nd ed., Springer \textbf{2011}.
+
+\bibitem{Schulz2012}
+A.~Schulz, G.~Doblhammer, in \emph{Versorgungs-Report} (Eds: C.~Gnster,
+  J.~Klose, N.~Schmacke), IEEE {P}ress, Piscataway, NJ \textbf{2012},   pp.
+  161--175.
+
+\bibitem{Yoo2007}
+{A. L. Gould}, \emph{\textup{in} Proceedings of Biopharmaceutical Section},
+  American Statistical Association, Washington, DC \textbf{1983},   pp. 31--34.
+
+\bibitem{Boggs2002}
+R.~Boggs, J.~Bozman, R.~Perry, \emph{Reducing downtime and business loss:
+  {A}ddressing business risk with effective technology}, Technical Report
+  Technical report 91-18, International {D}ata {C}orporation ({IDC}),
+  California, US \textbf{2002}.
+
+\bibitem{Blanchard2015}
+Advanced Materials homepage, \url{http://www.advmat.de} (accessed: July
+  \textbf{2007}).
+
+\end{thebibliography}

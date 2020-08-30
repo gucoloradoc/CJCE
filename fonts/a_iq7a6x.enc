@@ -1,0 +1,57 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_iq7a6x4zj53yykai254lxpwg3g
+% Encoding created by otftotfm on Tue Jul 04 17:17:57 2017
+% Command line follows encoding
+/AutoEnc_iq7a6x4zj53yykai254lxpwg3g [
+%00
+  /.notdef /Euro.smcp /.notdef /.notdef /fraction /dotaccent /hungarumlaut /ogonek
+  /f_l /.notdef /.notdef /f_f /f_i /.notdef /f_f_i /f_f_l
+%10
+  /dotlessi.smcp /dotlessj.smcp /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls.smcp /ae.smcp /oe.smcp /oslash.smcp /AE /OE /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar.smcp /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex /underscore
+%60
+  /quoteleft /a.smcp /b.smcp /c.smcp /d.smcp /e.smcp /f.smcp /g.smcp
+  /h.smcp /i.smcp /j.smcp /k.smcp /l.smcp /m.smcp /n.smcp /o.smcp
+%70
+  /p.smcp /q.smcp /r.smcp /s.smcp /t.smcp /u.smcp /v.smcp /w.smcp
+  /x.smcp /y.smcp /z.smcp /braceleft /bar /braceright /tilde /dieresis
+%80
+  /Lslash /quotesingle /quotesinglbase /fhook.smcp /quotedblbase /ellipsis /dagger /daggerdbl
+  /.notdef /perthousand /Scaron /guilsinglleft /.notdef /Zcaron /asciicircum /uni2212
+%90
+  /lslash.smcp /.notdef /.notdef /quotedblleft /quotedblright /bullet /endash /emdash
+  /.notdef /trademark /scaron.smcp /guilsinglright /.notdef /zcaron.smcp /asciitilde /Ydieresis
+%A0
+  /uni00A0 /exclamdown /cent.smcp /sterling.smcp /currency /yen.smcp /brokenbar /section
+  /.notdef /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /.notdef
+%B0
+  /degree /plusminus /twosuperior /threesuperior /.notdef /uni00B5 /paragraph /periodcentered
+  /.notdef /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /.notdef /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /.notdef /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /agrave.smcp /aacute.smcp /acircumflex.smcp /atilde.smcp /adieresis.smcp /aring.smcp /.notdef /ccedilla.smcp
+  /egrave.smcp /eacute.smcp /ecircumflex.smcp /edieresis.smcp /igrave.smcp /iacute.smcp /icircumflex.smcp /idieresis.smcp
+%F0
+  /eth.smcp /ntilde.smcp /ograve.smcp /oacute.smcp /ocircumflex.smcp /otilde.smcp /odieresis.smcp /divide
+  /.notdef /ugrave.smcp /uacute.smcp /ucircumflex.smcp /udieresis.smcp /yacute.smcp /thorn.smcp /ydieresis.smcp
+] def
+% Command line: 'c:\w32tex\bin\otftotfm -a -e texnansx -fsmcp -fkern -fliga
+% STIX2Text-Bold.otf STIXTSCb'
